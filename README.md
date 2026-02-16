@@ -6,7 +6,7 @@
 # <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hello, my name is Jonathan ✌️<br> 
 
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/jonathan-ibanez-2b4460328/)
+  <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/jonathan-ibanez-2b4460328/)-->
   <p align="left"> <img src="https://img.shields.io/github/watchers/JonhyIbag/JonhyIbag?logo=github" alt="GitHub Profile Watchers" /> </p>
 
   </b>
