@@ -80,9 +80,9 @@
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=JonhyIbag)
+![GitHub Stats](./profile/stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonhyIbag&layout=compact)
+![Top Languages](./profile/top-langs.svg)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JonhyIbag&theme=dracula&hide_border=true)
 
