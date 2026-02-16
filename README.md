@@ -3,7 +3,7 @@
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=jeffdevx&icon=0&color=0)](https://visitcount.itsvg.in)<br>
-# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hello, my name is Jonathan :v:<br> 
+# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hello, my name is Jonathan ✌️<br> 
 
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/jonathan-ibanez-2b4460328/)
@@ -11,12 +11,13 @@
 
   </b>
 
-⚡Computering EngeneerBackend developer by nature, but with a curious eye for the frontend, always looking to learn and expand my skills.<br>
+⚡Enthusiastic Computer Engineering student and intern developer working on an academic project called CONVIDA 🐝. Passionate about software development 💻, learning new technologies 🤓, and spending my free time watching football ⚽, anime 📺, playing video games 🎮, and reading comics 🕷️. <br>
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b>
 
 - ## Languages
     ![C# Badge](https://img.shields.io/badge/-C%23-%20purple?logo=dotnet)
+  	![C Badge](https://img.shields.io/badge/%20-%20%20-%20darkblue?logo=c)
     ![Python Badge](https://custom-icon-badges.demolab.com/badge/Python-000.svg?logo=python-colorful)
     ![JavaScript Badge](https://img.shields.io/badge/Javascript*-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E&style=flat)
     ![CSS3 Badge](https://img.shields.io/badge/-CSS*-%20blue?logo=css) 
@@ -62,7 +63,7 @@
         <p> In this project I made a desktop app that emulate a pizzeria app. The main focus of this project was the implementation of several design patterns such as Facthory Method, Facade and Observer. This application was developed following the MVC Architecture.
         </p>
       </td>
-      <td width="50%">
+      <!--<td width="50%">
         <h3 align="center">Pizzeria with Design Patterns</h3>
         <div align="center">
         <a href="aqui debe ir el enlace hacia el proyecto en github" target="_blank"><img src="imagen" width="400" alt="Pizzeria Project using Design Patterns"> </a>
@@ -72,7 +73,7 @@
         </p>
         <p> In this project I made a desktop app that emulate a pizzeria app. The main focus of this project was the implementation of several design patterns such as Facthory Method, Facade and Observer. This application was developed following the MVC Architecture.
         </p>
-      </td>
+      </td>-->
     </tr>
   </tbody>
 </table>
