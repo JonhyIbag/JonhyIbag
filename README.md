@@ -55,10 +55,10 @@
       <td width="50%">
         <h3 align="center">Pizzeria with Design Patterns</h3>
         <div align="center">
-        <a href="aqui debe ir el enlace hacia el proyecto en github" target="_blank"><img src="imagen" width="400" alt="Pizzeria Project using Design Patterns"> </a>
+        <a href="https://github.com/JonhyIbag/Pizzeria-Design-Patterns" target="_blank"><img src="imagen" width="400" alt="Pizzeria Project using Design Patterns"> </a>
         <br>
         <p>
-          <a href="enlace a github" target="_blank"><img src="https://img.shields.io/badge/-Repositorie-%20black?logo=github"></a>
+          <a href="https://github.com/JonhyIbag/Pizzeria-Design-Patterns" target="_blank"><img src="https://img.shields.io/badge/-Repositorie-%20black?logo=github"></a>
         </p>
         <p> In this project I made a desktop app that emulate a pizzeria app. The main focus of this project was the implementation of several design patterns such as Facthory Method, Facade and Observer. This application was developed following the MVC Architecture.
         </p>
