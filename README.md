@@ -45,7 +45,7 @@
     ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat)
     ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat)
 
-\* Skills in study and improvement.
+*\* Skills in study and improvement.*
 
 # Latest Projects
 <table>
