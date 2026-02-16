@@ -81,7 +81,7 @@
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-![GitHub Stats](./profile/stats.svg)
+<!--![GitHub Stats](./profile/stats.svg)-->
 
 ![Top Languages](./profile/top-langs.svg)
 
