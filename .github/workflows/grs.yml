@@ -24,9 +24,10 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=dracula&hide=glsl,postscript
+          options: username=${{ github.repository_owner }}&layout=compact&hide=GLSL,PostScript&theme=dracula
           path: profile/top-langs.svg
           token: ${{ secrets.GH_PAT }}
+
 
       - name: Commit generated cards
         run: |
